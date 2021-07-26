@@ -1,0 +1,15 @@
+.navbar{
+    padding: 0;
+}
+
+.form-control-dark{
+    color: #fff;
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 0;
+    padding: .75rem 1rem;
+}
+
+.right-section{
+    margin-top: 5%;
+}
+
